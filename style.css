@@ -1,12 +1,66 @@
 body {
-	background-image: url(images/DSC_0140.jpg);
-	background-size: contain;
+	background-image: url(images/loveland-pass.jpg);
+	background-size: cover;
 	background-repeat: no-repeat;
 	width: auto;
-	height: 900px;
+	
+}
+
+h1 {
+	color: #babbbc;
+	position: absolute;
+	top: 30px;
+	right: 30px;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: bold;
+	letter-spacing: 3px;
+}
+
+h4 {
+    font-family: 'Montserrat', sans-serif;
+    position: absolute;
+    right: 30px;
+    top: 75px;
+    margin: 10px 0;
+    font-size: 14px;
+}
+
+p {
+    font-family: 'Montserrat', sans-serif;
+    position: relative;
+    text-align: right;
+    top: 130px;
+    right: 30px;
+    margin: 0 0 10px 0;
+}
+
+ul {
+	float: right;
 }
 
 li {
-	list-style-type: none;
-	
+    font-family: 'Montserrat', sans-serif;
+    list-style-type: none;
+    position: relative;
+    text-align: center;
+    top: 110px;
+    right: 30px;
+    margin: 10px 0;
+    background-color: rgba(255, 255, 255, 0.7);
+    width: 60px;
+    padding: 5px 10px;
+    border: 1px solid black;
+
+
+}
+
+a {
+	text-decoration: none;
+	color: black;
+
+}
+
+a:hover {
+	text-decoration: underline;
+	color: black;
 }
