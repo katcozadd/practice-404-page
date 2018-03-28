@@ -1,0 +1,12 @@
+body {
+	background-image: url(images/DSC_0140.jpg);
+	background-size: contain;
+	background-repeat: no-repeat;
+	width: auto;
+	height: 900px;
+}
+
+li {
+	list-style-type: none;
+	
+}
